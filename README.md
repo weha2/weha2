@@ -7,6 +7,8 @@ My first experience in programming began in high school when I participated in c
 Throughout my career, I've gained diverse experience in developing websites, mobile applications, and backend systems. Every time I write a program, I'm thrilled by the challenges that await. Problem-solving and creating new things are what make me feel alive.
 I believe the world of technology is limitless, and I'm ready to learn and grow alongside it. It's a pleasure to meet you all, and I look forward to exchanging experiences and creating exciting things together in the future.
 
+## Tech stack
+
 <!--
 **weha2/weha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
