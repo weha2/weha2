@@ -1,4 +1,4 @@
-## Abount Me 👋
+## Abount Me 👨🏻‍💻
 
 <!--
 **weha2/weha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
