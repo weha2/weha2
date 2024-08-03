@@ -1,4 +1,4 @@
-## About Me 👨🏻‍💻
+## ᴀʙᴏᴜᴛ ᴍᴇ 👨🏻‍💻
 Hello, my name is Weha, but my friends call me 'Jeng'.
 Since childhood, I've been fascinated by the world of technology. My curiosity has always driven me to explore new things, and self-improvement has been a constant priority in my life.
 
@@ -7,7 +7,7 @@ My first experience in programming began in high school when I participated in c
 Throughout my career, I've gained diverse experience in developing websites, mobile applications, and backend systems. Every time I write a program, I'm thrilled by the challenges that await. Problem-solving and creating new things are what make me feel alive.
 I believe the world of technology is limitless, and I'm ready to learn and grow alongside it. It's a pleasure to meet you all, and I look forward to exchanging experiences and creating exciting things together in the future.
 
-## Tech stack
+## 𝚃𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 <!--
