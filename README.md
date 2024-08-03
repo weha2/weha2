@@ -8,6 +8,7 @@ Throughout my career, I've gained diverse experience in developing websites, mob
 I believe the world of technology is limitless, and I'm ready to learn and grow alongside it. It's a pleasure to meet you all, and I look forward to exchanging experiences and creating exciting things together in the future.
 
 ## Tech stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 <!--
 **weha2/weha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
