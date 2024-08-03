@@ -1,4 +1,4 @@
-## Abount Me 👨🏻‍💻
+## About Me 👨🏻‍💻
 Hello, my name is Weha, but my friends call me 'Jeng'.
 Since childhood, I've been fascinated by the world of technology. My curiosity has always driven me to explore new things, and self-improvement has been a constant priority in my life.
 
